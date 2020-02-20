@@ -45,7 +45,7 @@ async def message():
         return payload
 
     elif time == '19':
-        payload = {'text': '@channel Vad vore en Öl och Bärs Festival utan en *""Smakupplevelse""*? Vi får se.', 'link_names': 1, 'channel': '#test-messages', 'icon_emoji': ':kapittel:', 'username': 'Munken'}
+        payload = {'text': '@channel Vad vore en Öl och Bärs Festival utan en *"""Smakupplevelse"""*? Vi får se.', 'link_names': 1, 'channel': '#test-messages', 'icon_emoji': ':kapittel:', 'username': 'Munken'}
         return payload
 
     elif time == '21':
